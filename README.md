@@ -12,6 +12,7 @@ This is a backend API built using Java Spring Boot, MySQL, and ModelMapper to ma
 - MySQL
 - ModelMapper
 - Spring Security
+- Swagger 
 
 ## Getting Started
 
@@ -26,3 +27,7 @@ This is a backend API built using Java Spring Boot, MySQL, and ModelMapper to ma
    ```bash
    git clone <repository-url>
    cd reward-management-api
+
+2 **Swagger Documentation**:
+   ```bash
+http://localhost:9000/swagger-ui/index.html
